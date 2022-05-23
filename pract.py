@@ -1,5 +1,6 @@
 my_list = [-15, -26, 15, 1, 23, -64, 23, 76]
 new_list = []
+# it is for checking pull cmd
 
 while my_list:
     min = my_list[0]  
